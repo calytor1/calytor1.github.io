@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0944Ea7eC3B98596EC2e77fd4fD3574efeC69b63",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0944Ea7eC3B98596EC2e77fd4fD3574efeC69b63",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Lost Mermaids",
+  "SYMBOL": "TLM",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 125000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-lost-mermaids",
+  "SHOW_BACKGROUND": true
+}
